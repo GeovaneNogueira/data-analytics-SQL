@@ -1,1 +1,1 @@
-# data-analytics-with-SQL
+# data-analytics-SQL
